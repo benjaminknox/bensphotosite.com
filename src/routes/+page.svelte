@@ -5,6 +5,10 @@
     Good Morning Cincinnati
     <image class="snapshot" src="/good-morning-cincinnati.jpg" />
   </div>
+  <div class="photo">
+    Good Night Kentucky
+    <image class="snapshot" src="/good-night-kentucky.jpg" />
+  </div>
 </div>
 
 <style lang="scss">

@@ -1,1 +1,0 @@
-import"../chunks/CWj6FrbW.js";import"../chunks/Z34Jr0mA.js";import{o as e,a as m}from"../chunks/Be19mVJM.js";var r=e(`<div class="wrapper svelte-nom3ud">Ben's Photo Site <image class="me" src="/me.png"></image></div>`);function s(o){var a=r();m(o,a)}export{s as component};
